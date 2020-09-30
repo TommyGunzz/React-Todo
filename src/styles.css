@@ -37,7 +37,7 @@ h1 {
   text-align: left;
 }
 
-.shopping-list {
+.done-list {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-between;
@@ -53,7 +53,7 @@ h1 {
   cursor: pointer;
 }
 
-.item.purchased {
+.item.done {
   background-color: #e644e6;
   text-decoration: line-through;
 }
